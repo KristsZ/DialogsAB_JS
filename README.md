@@ -1,6 +1,9 @@
 # DialogsAB_JS
-Elektriskā klade par JavaScrip
-## 1. Nodarbība
+## Elektriskā klade par JavaScrip
+
+
+
+### 1. Nodarbība
 
 1. What is JavaScript?
 3. How to creat github account
