@@ -1,6 +1,6 @@
 # DialogsAB_JS
 ## Elektriskā klade par JavaScrip
-
+![JavaScript](https://github.com/user-attachments/assets/0676b5de-855c-442c-8484-52e3bb81dd25)
 
 
 ### 1. Nodarbība
