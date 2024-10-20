@@ -1,5 +1,5 @@
 # DialogsAB_JS
-## <span style="color:red">Elektriskā klade par JavaScrip</span>
+<span style="color:red">Elektriskā klade par JavaScrip</span>
 ![JavaScript](https://github.com/user-attachments/assets/0676b5de-855c-442c-8484-52e3bb81dd25)
 
 ### Pirmā nodarbība:
