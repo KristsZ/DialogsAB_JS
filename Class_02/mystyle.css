@@ -1,0 +1,13 @@
+body {
+    background-color:whitesmoke;
+  }
+  
+  h1 {
+    color:darkblue;
+    margin-left: 560px;
+  }
+  p {
+    color:blue;
+    margin-left: 20px;
+    background-color: yellow;
+  }
