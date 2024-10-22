@@ -4,10 +4,25 @@ body {
   
   h1 {
     color:darkblue;
-    margin-left: 560px;
+    text-align: center;
   }
   p {
     color:blue;
-    margin-left: 20px;
     background-color: yellow;
   }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+
+table, th {
+  border:1px solid black;
+  background-color: #D6EEEE
+}
+td {
+  border:1px solid black;
+  text-align: center;
+}
