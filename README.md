@@ -12,3 +12,6 @@
 - [X] Jāstrādā ar html - https://www.w3schools.com/html/
 - [X] Jānolāde- Git - https://git-scm.com/downloads- lai pieslēgtos github.
 - [X] Jānolāde- Visual Studio Code - https://code.visualstudio.com/- izstrādes vide.
+
+Krāsu pickers- https://www.w3schools.com/colors/colors_picker.asp
+https://www.ecowin.org/ascii.htm
