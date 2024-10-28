@@ -16,3 +16,5 @@
 Krāsu pickers- https://www.w3schools.com/colors/colors_picker.asp
 https://www.ecowin.org/ascii.htm
 Jaizmēģina operācijas- https://www.w3schools.com/jsref/jsref_operators.asp
+Jāturpina ar https://www.w3schools.com/js/js_arrays.asp
+https://www.w3schools.com/js/js_array_methods.asp
