@@ -46,3 +46,4 @@ if (b < c) {
 
 
 console.log("Dilstošā secība:", a, b, c);
+*/
