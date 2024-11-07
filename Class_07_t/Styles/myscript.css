@@ -1,0 +1,32 @@
+
+#visi_skaitli{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+#nepara_skaitli{
+    color: green;   
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#para_skaitli{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#nettelotn_skaitli{
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#neattelotp_skaitli{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
