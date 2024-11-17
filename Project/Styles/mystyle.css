@@ -11,7 +11,12 @@
 }
 
 body {
-
+  margin: 0;
+  padding: 0;
+  background-image: ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 body.show-nav {
