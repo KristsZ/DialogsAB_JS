@@ -11,10 +11,12 @@
 }
 
 body {
-  font-family: 'Lato', sans-serif;
   margin: 0;
-  transition: transform 0.3s ease;
-  background-color: yellow;
+  padding: 0;
+  background-image: url('https://picsum.photos/200/300');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 body.show-nav {
