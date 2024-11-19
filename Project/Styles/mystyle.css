@@ -13,7 +13,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('https://picsum.photos/200/300');
+  background-image: url('./vehicle_1611.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -74,7 +74,6 @@ nav ul li a:hover {
 }
 
 header {
-  border-bottom: 2px solid black;
   color: black;
   font-size: 130%;
   position: relative;
