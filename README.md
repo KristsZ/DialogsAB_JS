@@ -15,7 +15,7 @@
 
 Krāsu pickers- https://www.w3schools.com/colors/colors_picker.asp
 https://www.ecowin.org/ascii.htm <br>
-Jaizmēģina operācijas- https://www.w3schools.com/jsref/jsref_operators.asp
+Jaizmēģina operācijas- https://www.w3schools.com/jsref/jsref_operators.asp <br>
 Jāturpina ar https://www.w3schools.com/js/js_arrays.asp
-https://www.w3schools.com/js/js_array_methods.asp
+https://www.w3schools.com/js/js_array_methods.asp <br>
 API serveri- https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
