@@ -4,4 +4,6 @@ const person = {
     city: "New York"
   };
   
-  document.getElementById("demo").innerHTML = person;
+  //document.getElementById("demo").innerHTML = person;
+  document.getElementById("demo").innerHTML = person["name"] + ", " + person["age"] + ", " + person["city"];
+  
