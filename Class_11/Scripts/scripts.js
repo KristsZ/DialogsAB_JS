@@ -1,4 +1,5 @@
 //https://www.javascripttutorial.net/javascript-bom/
+/*
 var counter = 1;
 var showCounter = () => console.log({ counter });
 
@@ -44,7 +45,7 @@ const outer_height =
   document.body.clientHeight;
 
 console.log("Pārlūka loga iekšējās daļas augstums- " + outer_height);
-
+*/
 //let url = 'http://127.0.0.1:5500/Project/index.html';
 //let jsWindow = window.open(url,'Project');
 
@@ -85,7 +86,7 @@ window.focus();
 //let lang = prompt('What is your favorite programming language?');
 
 //let feedback = lang.toLowerCase() === 'javascript' ? `It's great!` :
-    //`It's ${lang}`;
+//`It's ${lang}`;
 
 //alert(feedback);
 
@@ -94,12 +95,31 @@ window.focus();
 var timeoutID;
 
 function showAlert() {
-    timeoutID = setTimeout(alert, 3000, 'setTimeout Demo!');
-    console.log("New timeoutID-"+timeoutID)
+  timeoutID = setTimeout(alert, 3000, "setTimeout Demo!");
+  console.log("New timeoutID-" + timeoutID);
 }
 
 function cancelAlert() {
-    console.log("timeoutID to be cleard-"+timeoutID)
-    clearTimeout(timeoutID);
+  console.log("timeoutID to be cleard-" + timeoutID);
+  clearTimeout(timeoutID);
 }
 
+//https://www.javascripttutorial.net/javascript-bom/javascript-setinterval/
+let intervalID;
+
+function toggleColor() {
+  let e = document.getElementById("flashtext");
+  e.style.color = e.style.color == "red" ? "blue" : "red";
+}
+
+function start() {
+    intervalID = setInterval(toggleColor, 1000);
+    console.log("New intervalID- " + intervalID)
+    document.getElementById("start").disabled = true;
+}
+
+function stop() {
+    clearInterval(intervalID);
+    console.log("intervalID to be clear- " + intervalID)
+    document.getElementById("start").disabled = false;
+}
