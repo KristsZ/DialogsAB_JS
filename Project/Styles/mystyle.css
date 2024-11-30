@@ -193,3 +193,24 @@ button:focus {
     opacity: 1;
   }
 }
+.space {
+  display: inline-block;
+  width: 0.5rem; /* Adjust the width for the space */
+}
+
+h1 span {
+  position: relative;
+  top: 20px;
+  display: inline-block;
+  font-size: 92px;
+  color: white;
+  animation: bounce 0.3s ease infinite alternate;
+  animation-delay: calc(var(--j) * 0.1s);
+}
+
+@keyframes bounce {
+  100% {
+    top: -20px;
+  }
+}
+
