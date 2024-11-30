@@ -13,7 +13,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('./vehicle_1611.jpg');
+  background-image: url("https://picsum.photos/640/480");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
