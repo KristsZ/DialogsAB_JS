@@ -3,7 +3,7 @@
 :root {
   --modal-duration: 1s;
   --primary-color: #30336b;
-  --secondary-color: #be2edd;
+  --secondary-color: rgb(121, 11, 11);
 }
 
 * {
@@ -205,12 +205,16 @@ h1 span {
   font-size: 92px;
   color: white;
   animation: bounce 0.3s ease infinite alternate;
-  animation-delay: calc(var(--j) * 0.1s);
+  animation-delay: calc(var(--j) * 0.5s);
+  animation-iteration-count: 30;
 }
 
 @keyframes bounce {
-  100% {
-    top: -20px;
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-20px);
   }
 }
 
