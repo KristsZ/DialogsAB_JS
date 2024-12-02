@@ -26,3 +26,16 @@ const elem_reference_1 = document.getElementById("first");
 
 // getElementById querySelector equivalent
 const elem_reference_2 = document.querySelector("#first");
+
+let btn = document.getElementById('btnRate');
+let output = document.getElementById('output');
+
+btn.addEventListener('click', () => {
+    let rates = document.getElementsByName('rate');
+    rates.forEach((rate) => {
+        if (rate.checked) {
+            output.innerText = `You selected: ${rate.value}`;
+        }
+    });
+
+});
