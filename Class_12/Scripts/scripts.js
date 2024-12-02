@@ -27,15 +27,26 @@ const elem_reference_1 = document.getElementById("first");
 // getElementById querySelector equivalent
 const elem_reference_2 = document.querySelector("#first");
 
-let btn = document.getElementById('btnRate');
-let output = document.getElementById('output');
+// https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyname/
 
-btn.addEventListener('click', () => {
-    let rates = document.getElementsByName('rate');
-    rates.forEach((rate) => {
-        if (rate.checked) {
-            output.innerText = `You selected: ${rate.value}`;
-        }
-    });
+let btn = document.getElementById("btnRate");
+let output = document.getElementById("output");
+let choice = document.getElementById("choice");
 
+btn.addEventListener("click", () => {
+  let rates = document.getElementsByName("rate");
+  rates.forEach((rate) => {
+    if (rate.checked) {
+      output.innerText = `You selected: ${rate.value}`;
+    }
+  });
+});
+
+choice.addEventListener("click", () => {
+  let rates = document.getElementsByName("rate");
+  rates.forEach((rate) => {
+    if (rate.checked) {
+      console.log(rate.value+' checked is '+rate.checked);
+    }
+  });
 });
