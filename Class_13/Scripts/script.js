@@ -60,6 +60,12 @@ let getSiblings = function (e) {
     return siblings;
 };
 
+setTimeout(() => {
+    let div = document.createElement('div');
+    div.innerHTML = '<p>CreateElement example</p>';
+    document.body.appendChild(div);
+}, 3000);
+
 let siblingss_ = getSiblings(items[0]);
 const h1 = document.querySelector('h1');
             const p = document.createElement('p');
