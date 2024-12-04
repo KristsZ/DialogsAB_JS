@@ -63,7 +63,7 @@ let getSiblings = function (e) {
 let siblingss_ = getSiblings(items[0]);
 const h1 = document.querySelector('h1');
             const p = document.createElement('p');
-            p.innerText = 'This is JavaScript DOM after() method demo';
+            p.innerText = 'This is JavaScript DOM after() method';
             p.style.color = 'red';
             p.style.background = 'yellow'
             h1.after(p);
