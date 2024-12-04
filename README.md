@@ -19,4 +19,8 @@ Jaizmēģina operācijas- https://www.w3schools.com/jsref/jsref_operators.asp <b
 Jāturpina ar https://www.w3schools.com/js/js_arrays.asp
 https://www.w3schools.com/js/js_array_methods.asp <br>
 API serveri- https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
-Short cut in VS is type ! and press Tab to generate a full HTML template instantly
+Short cut in VS is type ! and press Tab to generate a full HTML template instantly<br>
+
+Mājas darbs:
+https://www.javascripttutorial.net/javascript-dom/<br>
+https://www.javascripttutorial.net/javascript-dom/javascript-events/<br>
