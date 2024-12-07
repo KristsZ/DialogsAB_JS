@@ -100,6 +100,14 @@ input notikuma apstrāde – kā apstrādāt input notikumu, kad ievades element
 
 ![JavaScript-event-bubbling](https://github.com/user-attachments/assets/37be8847-0f1d-40ec-bec0-bcd8258b17e9)
 
+##### The following picture illustrates the event-capturing effect:
+
+![JavaScript-event-capturing](https://github.com/user-attachments/assets/83c0581f-b70f-46e2-b513-4fd37d48e8ec)
+
+##### The following picture illustrates the DOM Level 2 event model when users click the button:
+
+![JavaScript-DOM-Level-2-Event](https://github.com/user-attachments/assets/21b18cc0-3be4-431d-a606-e216f307b095)
+
 
 
 
