@@ -94,10 +94,13 @@ Select lodziņš – kā apstrādāt select lodziņu un tā opcijas JavaScript v
 Pievienot / noņemt opcijas – kā dinamiski pievienot un noņemt opcijas select lodziņā.<br>
 Elementa <select> vienumu noņemšana nosacīti – kā nosacīti noņemt vienumus no <select> elementa.<br>
 change notikuma apstrāde – kā apstrādāt change notikumu ievades tekstā, radio pogās, checkbox un select elementos.<br>
-input notikuma apstrāde – kā apstrādāt input notikumu, kad ievades elementa vērtība mainās.
+input notikuma apstrāde – kā apstrādāt input notikumu, kad ievades elementa vērtība mainās.<br>
 
+##### The following picture illustrates the event bubbling effect when users click the button:
 
 ![JavaScript-event-bubbling](https://github.com/user-attachments/assets/37be8847-0f1d-40ec-bec0-bcd8258b17e9)
+
+
 
 
 
