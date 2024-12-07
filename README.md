@@ -28,19 +28,19 @@ https://www.javascripttutorial.net/javascript-dom/javascript-events/<br>
 #### JavaScript DOM:
 Šī sadaļa apskata JavaScript Dokumenta Objektu Modeli (DOM) un parāda, kā efektīvi pielietot DOM elementus.
 
-1. sadaļa- Sākt darbu: <br>
+##### 1. Sadaļa- Sākt darbu: <br>
 Izpratne par Dokumenta Objektu Modeli (DOM) JavaScript valodā
-2. sadaļa- Elementu atlasīšana: <br>
+2. Sadaļa- Elementu atlasīšana: <br>
 getElementById() – atlasīt elementu pēc ID. <br>
 getElementsByName() – atlasīt elementus pēc nosaukuma.<br>
 getElementsByTagName() – atlasīt elementus pēc tagu nosaukuma.<br>
 getElementsByClassName() – atlasīt elementus pēc viena vai vairākiem klašu nosaukumiem.<br>
 querySelector() – atlasīt elementus pēc CSS selektoriem.<br>
-3. sadaļa. Elementu pārlūkošana: <br>
+3. Sadaļa. Elementu pārlūkošana: <br>
 Get the parent element – iegūt elementa vecāku (parent node).<br>
 Get child elements – iegūt elementa bērnus.<br>
 Get siblings of an element – iegūt elementa brāļus un māsas.<br>
-4. sadaļa- Elementu manipulēšana:<br>
+4. Sadaļa- Elementu manipulēšana:<br>
 createElement() – izveidot jaunu elementu.<br>
 appendChild() – pievienot mezglu norādītā vecāka mezglu bērnu sarakstam.<br>
 textContent – iegūt un iestatīt mezgla teksta saturu.<br>
@@ -56,19 +56,19 @@ cloneNode() – kopēt elementu un visus tā pēcnācējus.<br>
 removeChild() – noņemt bērnu elementus no mezgla.<br>
 insertBefore() – ievietot jaunu mezglu pirms esoša mezgla kā bērnu mezglu norādītā vecāka mezglā.<br>
 insertAfter() palīgfunkcija – ievietot jaunu mezglu pēc esoša mezgla kā bērnu mezglu norādītā vecāka mezglā.<br>
-5. sadaļa- Darbs ar atribūtiem:<br>
+5. Sadaļa- Darbs ar atribūtiem:<br>
 HTML atribūti un DOM objekta īpašības – izpratne par attiecībām starp HTML atribūtiem un DOM objekta īpašībām.<br>
 setAttribute() – iestatīt norādītā atribūta vērtību elementam.<br>
 getAttribute() – iegūt atribūta vērtību elementam.<br>
 removeAttribute() – noņemt atribūtu no norādītā elementa.<br>
 hasAttribute() – pārbaudīt, vai elementam ir norādīts atribūts.<br>
-6. sadaļa- Elementu stilu manipulēšana:<br>
+6. Sadaļa- Elementu stilu manipulēšana:<br>
 style īpašība – iegūt vai iestatīt elementa iekšējos stilus.<br>
 getComputedStyle() – atgriezt elementa aprēķinātos stilus.<br>
 className īpašība – atgriež CSS klašu sarakstu, kas atdalītas ar atstarpēm.<br>
 classList īpašība – manipulēt ar elementa CSS klasēm.<br>
 Elementa platums un augstums – iegūt elementa platumu un augstumu.<br>
-7. sadaļa- Darbs ar notikumiem:<br>
+7. Sadaļa- Darbs ar notikumiem:<br>
 JavaScript notikumi – iepazīstināšana ar JavaScript notikumiem, notikumu modeļiem un to, kā apstrādāt notikumus.<br>
 Notikumu apstrāde – parādīs trīs veidus, kā apstrādāt notikumus JavaScript valodā.<br>
 Lappuses ielādes notikumi – uzziniet par lapas ielādes un izslēgšanas notikumiem.<br>
@@ -86,7 +86,7 @@ Notikumu delegēšana – tehnika, kā izmantot notikumu burbuļošanu, lai apst
 dispatchEvent – uzziniet, kā ģenerēt notikumu no koda un to izsist.<br>
 Pielāgoti notikumi – definēt pielāgotu JavaScript notikumu un pievienot to elementam.<br>
 MutationObserver – uzraudzīt DOM izmaiņas un izsaukt atbildes funkciju, kad izmaiņas notiek.<br>
-8. sadaļa-  Web formu skriptēšana:<br>
+8. Sadaļa-  Web formu skriptēšana:<br>
 JavaScript forma – uzziniet, kā apstrādāt formas nosūtīšanas notikumu un veikt vienkāršu validāciju tīmekļa formai.<br>
 Radio poga – kā uzrakstīt JavaScript kodu radio pogām.<br>
 Checkbox – kā manipulēt ar checkbox JavaScript valodā.<br>
