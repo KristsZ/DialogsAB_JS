@@ -97,6 +97,9 @@ change notikuma apstrāde – kā apstrādāt change notikumu ievades tekstā, r
 input notikuma apstrāde – kā apstrādāt input notikumu, kad ievades elementa vērtība mainās.
 
 
+![JavaScript-event-bubbling](https://github.com/user-attachments/assets/37be8847-0f1d-40ec-bec0-bcd8258b17e9)
+
+
 
 
 
